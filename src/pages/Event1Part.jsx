@@ -9,6 +9,8 @@ const Event1 = () => {
         <h1 className="text-center text-4xl  pb-6 text-[#222222] font-semibold">
           Events
         </h1>
+
+        
         <div>
           <ul className='flex justify-center items-center gap-18 cursor-pointer'>
             <li className='hover:text-[#B2D235]'>All</li>
