@@ -18,8 +18,9 @@ const Event1 = () => {
           </ul>
         </div>
         <EventCard/>
-      </div>
       
+      </div>
+
     </React.Fragment>
   );
 };
