@@ -135,7 +135,6 @@ const EventCard = () => {
                 08 OCT
               </span>
             </div>
-
             <img
               src="./assets/Event1Images/8ac94ec7617b98d2d4a25c242249b4340a41d700.png"
               alt=""

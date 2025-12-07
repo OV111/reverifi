@@ -5,17 +5,18 @@ import FeaturedList from "./pages/FeaturedList";
 import Event1 from "./pages/Event1Part";
 import ListingsGrid from "./pages/Pages";
 import Footer from "./components/Footer";
+import SeeMore from "./pages/SeeMore";
 const App = () => {
-    return (
-        <React.Fragment>
-            
-            <Navbar></Navbar>
-            <Hero></Hero>
-            <FeaturedList></FeaturedList>
-            <Event1></Event1>
-            <ListingsGrid></ListingsGrid>
-            <Footer></Footer>
-        </React.Fragment>
-    )
-}
+  return (
+    <React.Fragment>
+      <Navbar></Navbar>
+      <Hero></Hero>
+      <FeaturedList></FeaturedList>
+      <Event1></Event1>
+      <ListingsGrid></ListingsGrid>
+      <SeeMore></SeeMore>
+      <Footer></Footer>
+    </React.Fragment>
+  );
+};
 export default App;
