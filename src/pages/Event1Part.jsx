@@ -10,7 +10,6 @@ const Event1 = () => {
           Events
         </h1>
 
-        
         <div>
           <ul className='flex justify-center items-center gap-18 cursor-pointer'>
             <li className='hover:text-[#B2D235]'>All</li>
